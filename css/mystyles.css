@@ -1,0 +1,43 @@
+/* Last edited by Cole Whitman on December 8th*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(32, 32, 32);
+    background-color: rgb(176, 230, 245);
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: rgb(165, 141, 180);
+    text-decoration: none;
+}
+
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+    color:rgb(27, 21, 21)
+}
+
+.differentText{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.fontsize {
+    font-size: larger;
+}
+
+.font {
+    font-weight: 600;
+}
+
+.underline {text-decoration: underline; color:rgb(27, 21, 21)}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+.coloredfont {color:rgb(66, 51, 56)}
+.normalfont {color: rgb(27, 21, 21);font-weight: normal;}
+.heading {height: 1px;}
